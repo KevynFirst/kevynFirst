@@ -12,7 +12,7 @@
 
   <!--CSS-->
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/mastericons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 
   <!--JS-->

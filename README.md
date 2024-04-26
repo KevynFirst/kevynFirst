@@ -1,6 +1,6 @@
-## Olá pessoal, sou Kevyn Ladislau 😁
+# <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;"> Olá pessoal, sou Kevyn Ladislau 
 
-### Sobre mim
+### 😁 Sobre mim
 - Sou bacharel em sistemas de informação, e estou em uma jornada continua para conseguir atuar como desenvolvedor front-end ou fullstack com foco nas tecnologias **react, typecript e node**.
 ##
 
@@ -27,7 +27,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevynfirst)
 
 
-### 🌱 Aprendendo atualmente
+### 👨🏻‍💻 Aprendendo atualmente
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,8 +60,6 @@
 
 ### Minhas redes sociais!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevynfirst)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevynfirst)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511999364636)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
-
-0D1117
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://instagram.com/kevynfirst)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/+5511999364636)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kevynfirst@gmail.com)

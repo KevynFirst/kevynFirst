@@ -1,48 +1,66 @@
-## Bem-vindo(a) ao perfil do Kevyn B. Ladislau 😁
+## Olá pessoal, sou Kevyn Ladislau 😁
 
- <div>
-   <a href="https://github.com/kevynfirst">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevynfirst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=tokyonight"/>
+### Sobre mim
+- Sou bacharel em sistemas de informação, e estou em uma jornada continua para conseguir atuar como desenvolvedor front-end ou fullstack com foco nas tecnologias **react, typecript e node**.
+##
 
-</div>
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+### 🛠️ Habilidades
 
-  <!--CSS-->
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-   <!--<img align="center" alt="Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">-->
+- #### Front-end e seus frameworks
+  ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)
+  ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-  <!--JS-->
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <!--<img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">-->
-   <!--<img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">-->
-  <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-   <!--<img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">-->
+- #### Back-end e seus frameworks
+  ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
 
-  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-
-  <!--BD-->
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+- #### Banco de dados
+  ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=%234ea94b.svg)
   
-   <!--<img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">-->
-   <!--<img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">-->
+- #### Outros
+  ![Vscode](https://img.shields.io/badge/Vscode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
+  ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
+  [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 
-  <!--Others-->
-   <!--<img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">-->
-   <!--<img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">-->
-</div>
- 
- <br>
- 
-  ### Minhas redes sociais!
- 
-<div> 
-  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  <a href="https://instagram.com/kevynfirst" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/kevynfirst" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+### 🌱 Aprendendo atualmente
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+##
+
+### 📊 Stats
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=dark"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kevynfirst&theme=rising-sun&background=151515&border=FFF&dates=e38a44)](https://git.io/streak-stats)
+
+<br>
+
+### 🗂️ Meus repositórios principais:
+<a href="https://github.com/kevynfirst/rpg-fichas-gerador">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevynfirst&repo=rpg-fichas-gerador&&theme=dark" />
+</a>
+<a href="https://github.com/kevynfirst/site-curriculo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevynfirst&repo=site-curriculo&&theme=dark" />
+</a>
+<a href="https://github.com/kevynfirst/quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevynfirst&repo=quiz&&theme=dark" />
+</a>
+<a href="https://github.com/kevynfirst/sistema-werpsystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevynfirst&repo=sistema-werpsystem&&theme=dark" />
+</a>
+
+##
+
+### Minhas redes sociais!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevynfirst)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevynfirst)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511999364636)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
+

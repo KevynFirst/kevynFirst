@@ -12,15 +12,22 @@
 
   <br>
 
-<samp>
-Sou um Analista de Dados em evolução com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão. Possuo experiência com Python, SQL, Power BI e Excel, além de uma base sólida em design e desenvolvimento web, adquirida em experiências anteriores. Valorizo a união entre análise, estética e funcionalidade, buscando sempre soluções bem estruturadas e visualmente claras.
-
-Sou entusiasta de RPG, o que fortalece meu pensamento estratégico, criativo e voltado à resolução de problemas. Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em projetos reais de dados, evoluindo como profissional e contribuindo com resultados de impacto.
-</samp>
-
 </div>
 
 ---
+
+<div align="center">
+  <h4>Sobre mim</h4>
+  <p>
+    Sou um <b>Analista de Dados em evolução</b> com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão.  
+    Possuo experiência com <b>Python</b>, <b>SQL</b>, <b>Power BI</b> e <b>Excel</b>, além de uma base sólida em <b>design</b> e <b>desenvolvimento web</b>, adquirida em experiências anteriores.  
+    Valorizo a união entre <b>análise, estética e funcionalidade</b>, buscando sempre soluções bem estruturadas e visualmente claras.  
+    <br><br>
+    Sou entusiasta de <b>RPG</b>, o que fortalece meu pensamento estratégico, criativo e voltado à resolução de problemas.  
+    Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em <b>projetos reais de dados</b>, evoluindo como profissional e contribuindo com resultados de impacto.  
+  </p>
+  <br>
+</div>
 
 <br>
 

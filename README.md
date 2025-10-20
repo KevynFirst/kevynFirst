@@ -28,7 +28,11 @@
   <br>
 </div>
 
----
+<br>
+
+<div align="center">
+  <h2>MINHAS HARD SKILLS ⚙️</h2>
+</div>
 
 <br>
 

@@ -10,13 +10,13 @@
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevynFirst&theme=dark"/>
 
+  <br>
+
 <samp>
 Sou um Analista de Dados em evolução com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão. Possuo experiência com Python, SQL, Power BI e Excel, além de uma base sólida em design e desenvolvimento web, adquirida em experiências anteriores. Valorizo a união entre análise, estética e funcionalidade, buscando sempre soluções bem estruturadas e visualmente claras.
 
-Sou entusiasta de RPG, o que fortalece meu pensamento estratégico, criativo e voltado à resolução de problemas.
-Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em projetos reais de dados, evoluindo como profissional e contribuindo com resultados de impacto.
-  <br>
-  </samp>
+Sou entusiasta de RPG, o que fortalece meu pensamento estratégico, criativo e voltado à resolução de problemas. Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em projetos reais de dados, evoluindo como profissional e contribuindo com resultados de impacto.
+</samp>
 
 </div>
 

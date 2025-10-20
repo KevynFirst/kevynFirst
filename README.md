@@ -1,22 +1,21 @@
-<br>
+ <br>
 <div align="center">
   
-  <samp>
+  <h2>
       Bem vindo(a)!
       <br>
-  </samp>
+  </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Me+chamo+Kevyn+Ladislau;Analista+de+dados+em+evolu%C3%A7%C3%A3o+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kevynfirst&theme=rising-sun&background=151515&border=FFF&dates=e38a44)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=dark"/>
+<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevynFirst&theme=dark"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Data Analysis & Databases</h3>
+  <h4>Data Analysis & Databases</h4>
   <img width="40" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" />
   <img width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -29,7 +28,7 @@
 <br>
 
 <div align="center">
-  <h3>Full Stack Developer</h3>
+  <h4>Full Stack Developer</h4>
 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -49,7 +48,7 @@
 <br>
 
 <div align="center">
-  <h3>Design & UI/UX</h3>
+  <h4>Design & UI/UX</h4>
 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
@@ -61,14 +60,14 @@
 <br>
 
 <div align="center">
-  <h3>Tools</h3>
+  <h4>Tools</h4>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 <br>
 <br>
-<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevynFirst&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <br>

@@ -1,16 +1,18 @@
  <br>
 <div align="center">
   
-  <h2>
+  <samp>
       Bem vindo(a)!
       <br>
-  </h2>
+  </samp>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Me+chamo+Kevyn+Ladislau;Analista+de+dados+em+evolu%C3%A7%C3%A3o+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevynFirst&theme=dark"/>
 
 </div>
+
+---
 
 <br>
 

@@ -14,7 +14,7 @@
 
 </div>
 
----
+  <br>
 
 <div align="center">
   <h2>SOBRE MIM 👨‍💻</h2>

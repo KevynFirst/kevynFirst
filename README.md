@@ -9,6 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Me+chamo+Kevyn+Ladislau;Analista+de+dados+em+evolu%C3%A7%C3%A3o+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kevynfirst&theme=rising-sun&background=151515&border=FFF&dates=e38a44)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 
@@ -67,8 +68,7 @@
 
 <br>
 <br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynfirst&layout=compact&langs_count=6&theme=dark"/>
+<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevynFirst&theme=omni"/>
 </div>
 
 <br>

@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h4>Sobre mim</h4>
+  <h2>SOBRE MIM 👨‍💻</h2>
   <p>
     Sou um <b>Analista de Dados em evolução</b> com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão.  
     Possuo experiência com <b>Python</b>, <b>SQL</b>, <b>Power BI</b> e <b>Excel</b>, além de uma base sólida em <b>design</b> e <b>desenvolvimento web</b>, adquirida em experiências anteriores.  
@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
-  <h4>Full Stack Developer</h4>
+  <h4>Full Stack Developer </h4>
 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-### Minhas redes sociais!
+### Minhas redes sociais! 😁
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E2832?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevynfirst)
 [![Instagram](https://img.shields.io/badge/-Instagram-1E2832?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://instagram.com/kevynfirst)
 [![Gmail](https://img.shields.io/badge/Gmail-1E2832?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kevynfirst@gmail.com)

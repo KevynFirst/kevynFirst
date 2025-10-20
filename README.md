@@ -19,9 +19,8 @@
 <div align="center">
   <h2>SOBRE MIM 👨‍💻</h2>
   <p>
-    Sou um <b>Analista de Dados em evolução</b> com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão.  
-    Possuo experiência com <b>Python</b>, <b>SQL</b>, <b>Power BI</b> e <b>Excel</b>, além de uma base sólida em <b>design</b> e <b>desenvolvimento web</b>, adquirida em experiências anteriores.  
-    Valorizo a união entre <b>análise, estética e funcionalidade</b>, buscando sempre soluções bem estruturadas e visualmente claras.  
+    Sou um <b>Analista em evolução</b> com foco em desenvolver soluções baseadas em dados que gerem valor e apoiem a tomada de decisão.  
+    Tenho uma base sólida em <b>design</b> e <b>desenvolvimento web</b>, adquirida em experiências anteriores. Valorizo a união entre <b>análise, estética e funcionalidade</b>, buscando sempre soluções bem estruturadas e visualmente claras.  
     <br><br>
     Sou entusiasta de <b>RPG</b>, o que fortalece meu pensamento estratégico, criativo e voltado à resolução de problemas.  
     Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos em <b>projetos reais de dados</b>, evoluindo como profissional e contribuindo com resultados de impacto.  

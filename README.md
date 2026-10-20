@@ -38,44 +38,6 @@
     📊 Análise de indicadores, criação e manutenção de dashboards, extração e tratamento de dados<br>
     🤖 Automações em Python, Tampermonkey e aplicações web para deixar os processos mais eficientes<br>
     🤝 Parceria com diferentes áreas para monitorar métricas e encontrar oportunidades de melhoria contínua<br>
-    🎓 Formação em <b>Profissão: Análise de Dados</b> pela EBAC
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>TRAJETÓRIA 🧭</h2>
-
-| Período | Cargo | Empresa | Destaque |
-| :-- | :-- | :-- | :-- |
-| jul/2026 – atual | Analista de Learning | Amazon | Dashboards, indicadores, insights e automações |
-| dez/2025 – jul/2026 | Assistente de Treinamento | Amazon | Treinamentos, integrações e desenvolvimento de colaboradores |
-| abr/2025 – dez/2025 | FC Associate I | Amazon | Análise de mecanismos para dar visibilidade aos gestores |
-| set/2024 – abr/2025 | Auxiliar de Logística | Adecco · Amazon Brasil | Outbound: pick, pack e doca |
-| mai/2022 – jan/2023 | Designer Gráfico | Instituto de Educação Evoluir | Tráfego pago, artes e instrutor de Design e Marketing Digital |
-| fev/2020 – abr/2021 | Auxiliar de Almoxarifado | Carrocerias Cariri | Desenvolvi o ERP da empresa, que virou meu TCC |
-
-</div>
-
-<br>
-
-<div align="center">
-  <h2>FORMAÇÃO 🎓</h2>
-
-| Curso | Instituição | Período |
-| :-- | :-- | :-- |
-| Bacharelado em Sistemas de Informação | Instituto Federal do Ceará (IFCE) | 2016 – 2021 |
-| Pós-graduação em Marketing Digital | Faculdade Futura | 2021 – 2022 |
-| Profissão: Análise de Dados | EBAC | 2026 |
-
-  <h4>Certificações</h4>
-  <p>
-    🏅 Introduction to Amazon QuickSight<br>
-    🏅 Bootcamp Santander: Excel com Inteligência Artificial<br>
-    🏅 Inteligência Artificial<br>
-    🏅 SQL Completo<br>
-    🏅 WordPress Completo
   </p>
 </div>
 
@@ -91,17 +53,12 @@
   <img width="40" alt="Power BI" title="Power BI" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
   <img width="40" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img width="40" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   <img width="40" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img width="40" alt="Plotly" title="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   <br>
   <img width="40" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="40" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img width="40" alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <br><br>
-  <img alt="Amazon QuickSight" src="https://img.shields.io/badge/Amazon%20QuickSight-1E2832?style=for-the-badge" />
-  <img alt="Tampermonkey" src="https://img.shields.io/badge/Tampermonkey-1E2832?style=for-the-badge&logo=tampermonkey&logoColor=white" />
-  <img alt="Facilitação de treinamento" src="https://img.shields.io/badge/Facilita%C3%A7%C3%A3o%20de%20treinamento-1E2832?style=for-the-badge" />
 </div>
 
 <br>
